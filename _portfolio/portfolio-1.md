@@ -1,6 +1,6 @@
 ---
 title: "Portfolio item number 1"
-excerpt: "The Objective of this Project was to develop a web app where the emergency workers can infer form a help message the possible categories the message belongs to. to be able to redirect necessary support "shelter", "Food", etc <br/><img src='/images/1.gif'>"
+excerpt: "The Objective of this Project was to develop a web app where the emergency workers can infer form a help message the possible categories the message belongs to. to be able to redirect necessary support "shelter", "Food", etc<br/><img src='/images/1.gif'>"
 collection: portfolio
 ---
 
