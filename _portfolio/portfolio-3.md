@@ -1,9 +1,10 @@
 ---
-title: "3. Vizulaizing What Conv-Nets Learn"
-excerpt: "<br/><img src='https://github.com/rishabhCMS/rishabhCMS.github.io/blob/master/images/Final_report.pdf'>"
+title: "Vizulaizing What Conv-Nets Learn"
+excerpt: "<br/><img src='/images/conv2d1.png'>"
 collection: portfolio
 ---
 
 
 
 [GitHub Code](https://github.com/rishabhCMS/Regularization_CNN/blob/master/Final_report.pdf)
+[report](https://github.com/rishabhCMS/Regularization_CNN/blob/master/Final_report.pdf)
