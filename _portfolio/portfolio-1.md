@@ -1,7 +1,9 @@
 ---
 title: "Disaster Response Project"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/1.gif'>"
+excerpt: "The Objective of this Project was to develop a web app where the emergency workers can infer form a help message the possible categories the message belongs to. to be able to redirect necessary support "shelter", "Food" <br/><img src='/images/1.gif'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+The Objective of this Project was to develop a web app where the emergency responders can infer form a help message the type of help that needs to be supplied.
+This project uses Natural Language Processing and trains a Random Forest Classifier to categorize messages.
+[GitHub Code](https://github.com/rishabhCMS/Disaster_Response)
