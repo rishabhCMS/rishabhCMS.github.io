@@ -39,7 +39,10 @@ Skills
 * Scientific Computing: Sci-Py, Numpy, Keras, SkLearn, MatplotLib, SeaBorn and Bokeh
 * Machine Learning: Linear and Logistic Regression, Classification, Clustering (PCA, KNN, Random forest), Auto-Encoders, NeuralNets, 
 Familiar: Computer Vision, Natural Language Processing
-
+* Soft Skills:
+  * Team Player: Worked in a collaboration for 5000 Scientits
+  * Enthusiastic about un-orthodox methods
+  * Critical thinking and Research Oriented
 
 
 Service and Outreach
