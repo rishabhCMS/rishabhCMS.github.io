@@ -1,5 +1,5 @@
 ---
-title: "Vizulaizing What Conv-Nets Learn"
+title: "Visualizing How Conv-Nets Learn"
 excerpt: "<br/><img src='/images/conv2d1.png'>"
 collection: portfolio
 ---
