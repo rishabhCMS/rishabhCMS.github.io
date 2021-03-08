@@ -35,7 +35,7 @@ Work experience
   
 Skills
 ======
-* Languages: Python (Advanced), R (Intermediate), pSQL (Intermediate), HTML (Can work my way around) | Bash, Shell
+* Languages: Python (Advanced), R (Intermediate), pSQL (Intermediate), HTML (Can work my way around), Bash, Shell
 * Scientific Computing: Sci-Py, Numpy, Keras, SkLearn, MatplotLib, SeaBorn and Bokeh
 * Machine Learning: Linear and Logistic Regression, Classification, Clustering (PCA, KNN, Random forest), Auto-Encoders, NeuralNets, 
 Familiar: Computer Vision, Natural Language Processing
@@ -49,4 +49,6 @@ Talks
 
 Service and Outreach
 ======
-* Fermilab Science Outreach Volunteer | Shelter Home Cleaning Volunteer | CERN Tour Guide Volunteer
+* Fermilab Science Outreach Volunteer,
+* Shelter Home Cleaning Volunteer 
+* CERN Tour Guide Volunteer
