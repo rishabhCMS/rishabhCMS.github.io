@@ -39,12 +39,7 @@ Skills
 * Scientific Computing: Sci-Py, Numpy, Keras, SkLearn, MatplotLib, SeaBorn and Bokeh
 * Machine Learning: Linear and Logistic Regression, Classification, Clustering (PCA, KNN, Random forest), Auto-Encoders, NeuralNets, 
 Familiar: Computer Vision, Natural Language Processing
- 
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+
 
 
 Service and Outreach
