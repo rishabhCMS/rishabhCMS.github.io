@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Emergency Messages Classification Using NLP<br/><img src='/images/1.gif'>"
+title: "Emergency Messages Classification Using NLP"
+excerpt: "<br/><img src='/images/1.gif'>"
 collection: portfolio
 ---
 
