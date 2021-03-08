@@ -20,17 +20,17 @@ Work experience
 * Fall, 2016 - Spring, 2017: Teaching Assistant
   * The Catholic University of America
   * Duties included: 
-        * undergraduate Physics Lab
-        * assisting university level course in Physics 
-        * study sessions for students
+    * undergraduate Physics Lab
+    * assisting university level course in Physics 
+    * study sessions for students
   * Supervisor: Professor John Philip
 
 * Summer, 2017 - Present: Research Assistant
   * The Catholic University of America/CERN
   * Duties included: 
-        * Data Visualization tools for high dimensional Physics data.
-        * Dimensionality Reduction of Physics data
-        * Commisioning a Mechanical Gantry for assembling CMS detector components
+    * Data Visualization tools for high dimensional Physics data.
+    * Dimensionality Reduction of Physics data
+    * Commisioning a Mechanical Gantry for assembling CMS detector components
   * Supervisor: Professor Aaron Dominguez
   
 Skills
