@@ -1,6 +1,6 @@
 ---
 title: "Pixel Detector Occupancy Plots"
-excerpt: "<br/><img src='/images/layer_1.gif'>"
+excerpt: "<br/><img src='/images/layer1.gif'>"
 collection: portfolio
 ---
 
