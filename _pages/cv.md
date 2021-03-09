@@ -40,7 +40,7 @@ Skills
 * Machine Learning: Linear and Logistic Regression, Classification, Clustering (PCA, KNN, Random forest), Auto-Encoders, NeuralNets, 
 Familiar: Computer Vision, Natural Language Processing
 * Soft Skills:
-  * Team Player: Worked in a collaboration for 5000 Scientits
+  * Team Player: Worked in a collaboration for 5000 Scientists
   * Enthusiastic about un-orthodox methods
   * Critical thinking and Research Oriented
 
