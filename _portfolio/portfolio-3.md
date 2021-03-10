@@ -6,5 +6,6 @@ collection: portfolio
 
 
 
-[GitHub Code](https://github.com/rishabhCMS/Regularization_CNN/blob/master/Final_report.pdf)
+[GitHub Code](https://github.com/rishabhCMS/Regularization_CNN)
+
 [report](https://github.com/rishabhCMS/Regularization_CNN/blob/master/Final_report.pdf)
