@@ -38,12 +38,22 @@ Skills
 * Languages: Python (Advanced), R (Intermediate), pSQL (Intermediate), Bash, Shell
 * Scientific Computing: Sci-Py, Numpy, Keras, SkLearn, MatplotLib, SeaBorn and Bokeh
 * Machine Learning: Linear and Logistic Regression, Classification, Clustering (PCA, KNN, Random forest), Auto-Encoders, NeuralNets, 
-Familiar: Computer Vision, Natural Language Processing
+* Familiar: Computer Vision, Natural Language Processing
 * Soft Skills:
-  * Team Player: Worked in a collaboration for 5000 Scientists
+  * Organizationally Savvy: Worked in Collaboration with 5000+ Scientists doing Physics analysis and Software Development
   * Enthusiastic about un-orthodox methods
   * Critical thinking and Research Oriented
 
+
+Awards and Achievements
+=====
+* Fermi Nat. Lab Guest & Visitor Fellowship, 2019
+  * Research Fellowship to Work on Anomaly Detection at the LHC 
+* Best Oral Presentation, 2018 : 
+  * a General Audience [Talk](https://communications.catholic.edu/news/2018/04/research-day.html) on the Higgs Boson
+* Data Science Hackathon Winner, 2019
+  *  [Winner](https://communications.catholic.edu/news/2019/04/hackathon.html) of a Data Science Hackathon on Increasing Voter Turn-out
+* Collaborated on the [1000th publication](https://communications.catholic.edu/news/2020/07/physicists-celebrate-1,000th-paper.html) of the CMS experiment at the Large Hadron Collider 
 
 Service and Outreach
 ======
