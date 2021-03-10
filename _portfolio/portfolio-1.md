@@ -6,7 +6,7 @@ collection: portfolio
 
 
 
-The Objective of this Project was to develop a web app where the emergency responders can infer form a help message the type of help that needs to be supplied.
+The Objective of this Project was to develop a web app where the emergency responders can infer from a help message the type of help that needs to be supplied.
 This project uses Natural Language Processing and trains a Random Forest Classifier to categorize messages.
 
 [GitHub Code](https://github.com/rishabhCMS/Disaster_Response)
@@ -17,8 +17,7 @@ This project uses Natural Language Processing and trains a Random Forest Classif
 
 
 ### Aim:
-The Objective of this Project was to develop a web app where the emergency workers can infer form a help message the possible categories the message belongs to.
-to be able to redirect necessary support "shelter", "Food" etc
+The Objective of this Project was to develop a web app where emergency workers can infer from a help message the possible categories that a message belongs to... to be able to redirect necessary support as per “shelter”, “food” etc
 
 
 ### Demo
