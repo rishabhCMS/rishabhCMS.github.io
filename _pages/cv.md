@@ -20,18 +20,20 @@ Work experience
 * Fall, 2016 - Spring, 2017: Teaching Assistant
   * The Catholic University of America
   * Duties included: 
-    * undergraduate Physics Lab
-    * assisting university level course in Physics 
-    * study sessions for students
-  * Supervisor: Professor John Philip
+    * Taught Physics to a class of 200 Undergraduates
+    * Organized problem solving sessions
+    * Experimental Physics Lab Instructor
 
-* Summer, 2017 - Present: Research Assistant
-  * The Catholic University of America/CERN
-  * Duties included: 
-    * Data Visualization tools for high dimensional Physics data.
-    * Dimensionality Reduction of Physics data
-    * Commisioning a Mechanical Gantry for assembling CMS detector components
-  * Supervisor: Professor Aaron Dominguez
+
+
+*  May 2017 - Present: Scientific Researcher
+							                                       
+  * The Catholic University of America/CERN		
+    * Designed a Principal Component Analysis framework to reduce the dimensionality of the data and helped reduce processing time, resulting in more computing resources availability by 10%.
+    * Developed a Auto-Encoders model for anomaly detection, resulting in fast decision making and less systematic errors in the Data Quality Monitoring.
+    * Developed data visualization tools of high dimensional Physics data which helped in conveying technical results to non-technical audience. This tool was also used for training purposes. 
+    * Developing state of the Art hardware and custom software tools for building the detector sensor at the world’s largest Particle Collider (LHC)
+
   
 Skills
 ======
