@@ -27,7 +27,6 @@ Work experience
 
 
 *  May 2017 - Present: Scientific Researcher
-							                                       
   * The Catholic University of America/CERN		
     * Designed a Principal Component Analysis framework to reduce the dimensionality of the data and helped reduce processing time, resulting in more computing resources availability by 10%.
     * Developed a Auto-Encoders model for anomaly detection, resulting in fast decision making and less systematic errors in the Data Quality Monitoring.
