@@ -17,21 +17,19 @@ Education
 
 Work experience
 ======
-* Fall, 2016 - Spring, 2017: Teaching Assistant
-  * The Catholic University of America
-  * Duties included: 
-    * Taught Physics to a class of 200 Undergraduates
-    * Organized problem solving sessions
-    * Experimental Physics Lab Instructor
+**Scientific Researcher**							                                        May 2017 - Present
+*Compact Muon Solenoid (CMS) Experiment at CERN, Geneva, Switzerland*		
+* Designed and developed a Python based software to perform statistical analysis and hypothesis testing on multi-TB physics data
+* Processed 200 TB of complex Physics data on a regular basis using distributed grid of computing clusters
+* Designed a Principal Component Analysis framework to reduce the dimensionality of the data and helped reduce processing time, resulting in more computing resources availability
+* Co-authored more than 150 scientific publications by the CMS collaboration
+* Communicated scientific results to the general audience as a science outreach volunteer
 
+**Teaching Assistant**								                          August 2016 - May 2017
+*The Catholic University of America*							 
+* Taught Physics to a class of 200 Undergraduate Students
+* Experimental Physics Lab Instructor
 
-
-*  May 2017 - Present: Scientific Researcher
-  * The Catholic University of America/CERN		
-    * Designed a Principal Component Analysis framework to reduce the dimensionality of the data and helped reduce processing time, resulting in more computing resources availability by 10%.
-    * Developed a Auto-Encoders model for anomaly detection, resulting in fast decision making and less systematic errors in the Data Quality Monitoring.
-    * Developed data visualization tools of high dimensional Physics data which helped in conveying technical results to non-technical audience. This tool was also used for training purposes. 
-    * Developing state of the Art hardware and custom software tools for building the detector sensor at the world’s largest Particle Collider (LHC)
 
   
 Skills
