@@ -18,6 +18,7 @@ Education
 Work experience
 ======
 **Scientific Researcher**							                                        May 2017 - Present
+
 *Compact Muon Solenoid (CMS) Experiment at CERN, Geneva, Switzerland*		
 * Designed and developed a Python based software to perform statistical analysis and hypothesis testing on multi-TB physics data
 * Processed 200 TB of complex Physics data on a regular basis using distributed grid of computing clusters
@@ -26,6 +27,7 @@ Work experience
 * Communicated scientific results to the general audience as a science outreach volunteer
 
 **Teaching Assistant**								                          August 2016 - May 2017
+
 *The Catholic University of America*							 
 * Taught Physics to a class of 200 Undergraduate Students
 * Experimental Physics Lab Instructor
